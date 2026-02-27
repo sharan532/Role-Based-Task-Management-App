@@ -1,0 +1,4 @@
+com/example/taskmanager/security/SecurityConfig.class
+com/example/taskmanager/entity/Role.class
+com/example/taskmanager/entity/User.class
+com/example/taskmanager/TaskmanagerApplication.class

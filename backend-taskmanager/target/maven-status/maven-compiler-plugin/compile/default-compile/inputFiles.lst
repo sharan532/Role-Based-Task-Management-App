@@ -1,0 +1,4 @@
+/workspaces/Role-Based-Task-Management-App/backend-taskmanager/src/main/java/com/example/taskmanager/TaskmanagerApplication.java
+/workspaces/Role-Based-Task-Management-App/backend-taskmanager/src/main/java/com/example/taskmanager/entity/Role.java
+/workspaces/Role-Based-Task-Management-App/backend-taskmanager/src/main/java/com/example/taskmanager/entity/User.java
+/workspaces/Role-Based-Task-Management-App/backend-taskmanager/src/main/java/com/example/taskmanager/security/SecurityConfig.java
